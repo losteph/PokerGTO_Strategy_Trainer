@@ -28,7 +28,7 @@ Un simulatore interattivo di Texas Hold'em No Limit da riga di comando (CLI) scr
 
   - Calcola automaticamente Equity (Regola del 4/2) vs Pot Odds.
 
-  -Ti dice se il tuo Call/Fold era matematicamente corretto (+EV).
+  - Ti dice se il tuo Call/Fold era matematicamente corretto (+EV).
 
 - Analizzatore Punti: Riconosce automaticamente il punto che hai in mano (es. "Doppia Coppia", "Progetto di Colore") per aiutarti nella lettura del board.
 
